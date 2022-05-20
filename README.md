@@ -1,8 +1,8 @@
-- 👋 ola eu sou o leorujiski16desinvolvedor
+- 👋 ola eu sou o leorujiski16 desinvolvedor
 ￼
-- 👀 eu temho interesse em pensamento computacional 
+- 👀 eu tenho interesse em pensamento computacional 
 - 📧leonardo.rujiski@escola.pr.gov.br
-- ⚽eu sou jogador do iraty
+- ⚽eu sou jogador do iraty sc
 - 💻eu sou desenvolvedor
 - 🇪🇸torcedor do barcelona
 - 
