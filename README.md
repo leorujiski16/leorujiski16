@@ -1,4 +1,4 @@
-- 👋 ola eu sou o leorujiski16 desinvolvedor
+- 👋 ola eu sou o leonardo rujiski desinvolvedor
 ￼
 - 👀 eu tenho interesse em pensamento computacional 
 - 📧leonardo.rujiski@escola.pr.gov.br
