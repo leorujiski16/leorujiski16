@@ -1,10 +1,9 @@
-- 👋 ola eu sou o leonardo rujiski desinvolvedor
+- 👋 ola eu sou o leonardo rujiski desinvolvedor.
 ￼
-- 👀 eu tenho interesse em pensamento computacional 
-- 📧leonardo.rujiski@escola.pr.gov.br
-- ⚽eu sou jogador do iraty sc
-- 💻eu sou desenvolvedor
-- 🇪🇸torcedor do barcelona
+- 👀 eu tenho interesse em pensamento computacional .
+- 📧leonardo.rujiski@escola.pr.gov.br.
+- ⚽eu sou jogador do iraty sc.
+- 🇪🇸torcedor do barcelona.
 
 
 ![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
